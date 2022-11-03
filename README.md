@@ -1,3 +1,6 @@
+This application has three interfaces, student, faculty, and admin. It is a proper student management system.
+
+
 1. Code for creating the database and tables
 
 create database studentmanagementsystem;
